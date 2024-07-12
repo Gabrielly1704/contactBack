@@ -39,7 +39,7 @@ Além disto é bom ter um editor para trabalhar com o código como por exemplo [
 
 # Npm instalado
 
-# Clone o repositório: git clone <https://github.com/mayara-gregorio/Gerenciador.git>
+# Clone o repositório: git clone <https://github.com/Gabrielly1704/contactBack.git>
 
 # Instale as dependências do Back End:
 $ npm install
