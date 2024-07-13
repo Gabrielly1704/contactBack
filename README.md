@@ -46,11 +46,7 @@ Além disto é bom ter um editor para trabalhar com o código como por exemplo [
 
 # npm install typescript ts-node @types/node --save-dev
 
-# npx tsc –init
-
 # npm install prisma --save-dev
-
-# npx prisma init
 
 # Inicie seu servidor:
 $ npm run dev
